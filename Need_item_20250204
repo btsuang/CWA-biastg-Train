@@ -1,0 +1,22 @@
+
+I.	For Work 1 (submitted manuscript): (biastg):
+    Need to save all import code and data:
+(1)	Final Python codes of every method (RNN, LSTM, Bi-LSTM….)
+(2)	Result of training data (RMSE, MAE…)
+
+
+II.	For Work 2 (dbiastg):
+(1)	Latest Python codes of every method (RNN, LSTM, Bi-LSTM…): 
+(a)	Pythons for training: (e.g. BiLSTM_Pytorch.py)
+(b)	Results of training data (RMSE, MAE…..)
+(c)	Model setting for grid (0E-360E, 90S-90N) for Bi-LSTM (for predicting)
+(d)	Predicting dbiastg code: (e.g. Predict.py)
+
+(2)	The idea of predicting code should be like the following figure:
+(a)	In Training period (e.g. training_Bi-LSTM.py):
+Input data: “dbiasTg” (2-D map: 0E-360E, 90S-90N) of forecast day 1 to 30 from a period of time (e.g. 2021/1/1-2022/6/30)
+	output : “model setting file for grids (0E-360E, 90S-90N)”
+(b)	In predicting period (e.g. predicting_Bi-LSTM.py):
+When we have new “dbiasTg” data from only a forecast day (e.g. 2024/1/1)
+Input: “dbiasTg data (from 2024/1/1)” & “model setting file for grids”
+	output: predicting dbiasTg for 2024/1/2
