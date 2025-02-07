@@ -1,0 +1,161 @@
+Statistics,
+El Nino Indicator Area biastg 10.csv,
+RMSE,0.414131009
+MAE,0.331838788
+MBE,0.073754029
+El Nino Indicator Area biastg 15.csv,
+RMSE,0.458521116
+MAE,0.354816364
+MBE,0.106475499
+El Nino Indicator Area dbiastg 1.csv,
+RMSE,0.130627613
+MAE,0.101222165
+MBE,-0.003617444
+El Nino Indicator Area dbiastg 10.csv,
+RMSE,0.131038797
+MAE,0.101206612
+MBE,0.007852424
+El Nino Indicator Area dbiastg 15.csv,
+RMSE,0.127709005
+MAE,0.099740522
+MBE,0.010248784
+El Nino Indicator Area dbiastg 20.csv,
+RMSE,0.135298291
+MAE,0.104498533
+MBE,0.012115176
+El Nino Indicator Area dbiastg 25.csv,
+RMSE,0.130760868
+MAE,0.099036159
+MBE,0.0081778
+El Nino Indicator Area dbiastg 30.csv,
+RMSE,0.128093406
+MAE,0.096473476
+MBE,0.010279557
+Equatorial Pacific Cold Tongue biastg 10.csv,
+RMSE,1.079886887
+MAE,0.823039044
+MBE,0.517028082
+Equatorial Pacific Cold Tongue biastg 15.csv,
+RMSE,1.293820237
+MAE,1.03182816
+MBE,0.774178437
+Equatorial Pacific Cold Tongue dbiastg 1.csv,
+RMSE,0.236024616
+MAE,0.173945185
+MBE,-0.014063193
+Equatorial Pacific Cold Tongue dbiastg 10.csv,
+RMSE,0.23624003
+MAE,0.177451507
+MBE,0.038767948
+Equatorial Pacific Cold Tongue dbiastg 15.csv,
+RMSE,0.243360161
+MAE,0.182360846
+MBE,0.032842574
+Equatorial Pacific Cold Tongue dbiastg 20.csv,
+RMSE,0.251035152
+MAE,0.190298255
+MBE,0.022087132
+Equatorial Pacific Cold Tongue dbiastg 25.csv,
+RMSE,0.241484669
+MAE,0.179262811
+MBE,0.021271419
+Equatorial Pacific Cold Tongue dbiastg 30.csv,
+RMSE,0.238986667
+MAE,0.176335862
+MBE,0.020963395
+Kuroshio current biastg 10.csv,
+RMSE,0.790914093
+MAE,0.60510309
+MBE,-0.038424174
+Kuroshio current biastg 15.csv,
+RMSE,0.95485659
+MAE,0.727948777
+MBE,-0.073828496
+Kuroshio current dbiastg 1.csv,
+RMSE,0.264968613
+MAE,0.203871946
+MBE,-0.005461564
+Kuroshio current dbiastg 10.csv,
+RMSE,0.265866571
+MAE,0.205278683
+MBE,-0.006405853
+Kuroshio current dbiastg 15.csv,
+RMSE,0.270064543
+MAE,0.20877112
+MBE,-0.020712896
+Kuroshio current dbiastg 20.csv,
+RMSE,0.269374525
+MAE,0.207750335
+MBE,-0.014885283
+Kuroshio current dbiastg 25.csv,
+RMSE,0.272223414
+MAE,0.207296067
+MBE,-0.022409391
+Kuroshio current dbiastg 30.csv,
+RMSE,0.26806035
+MAE,0.204343642
+MBE,-0.015993312
+North Atlantic Current biastg 10.csv,
+RMSE,0.757229726
+MAE,0.47097571
+MBE,0.098347976
+North Atlantic Current biastg 15.csv,
+RMSE,0.958581277
+MAE,0.614680916
+MBE,0.132439336
+North Atlantic Current dbiastg 1.csv,
+RMSE,0.171604062
+MAE,0.130716396
+MBE,-0.014487455
+North Atlantic Current dbiastg 10.csv,
+RMSE,0.180189676
+MAE,0.137093912
+MBE,-0.015959071
+North Atlantic Current dbiastg 15.csv,
+RMSE,0.175705125
+MAE,0.131710135
+MBE,-0.00749619
+North Atlantic Current dbiastg 20.csv,
+RMSE,0.176972842
+MAE,0.130717511
+MBE,-0.010613075
+North Atlantic Current dbiastg 25.csv,
+RMSE,0.177862374
+MAE,0.133607948
+MBE,-0.005543088
+North Atlantic Current dbiastg 30.csv,
+RMSE,0.175920602
+MAE,0.134328445
+MBE,-0.009439153
+western Pacific warm pool biastg 10.csv,
+RMSE,0.327364878
+MAE,0.253555778
+MBE,0.024507588
+western Pacific warm pool biastg 15.csv,
+RMSE,0.388107563
+MAE,0.309148507
+MBE,0.020986411
+western Pacific warm pool dbiastg 1.csv,
+RMSE,0.163177429
+MAE,0.11643563
+MBE,-0.003673689
+western Pacific warm pool dbiastg 10.csv,
+RMSE,0.171289551
+MAE,0.122926673
+MBE,0.000205635
+western Pacific warm pool dbiastg 15.csv,
+RMSE,0.169943001
+MAE,0.12107631
+MBE,0.001843492
+western Pacific warm pool dbiastg 20.csv,
+RMSE,0.175414711
+MAE,0.126098808
+MBE,0.002589849
+western Pacific warm pool dbiastg 25.csv,
+RMSE,0.169686829
+MAE,0.117786188
+MBE,-0.004543106
+western Pacific warm pool dbiastg 30.csv,
+RMSE,0.173191904
+MAE,0.121752643
+MBE,-0.004442367
